@@ -2,6 +2,7 @@
 
 [See also our Discord](https://discord.gg/FvHcYJ)
 
+[You can see the demo of this script](https://streamable.com/aj2u4)
 
 **Instalation**:
 1. Download the latest version from the GitHub repository 9.4k.
